@@ -2,7 +2,7 @@
 
 ## Background
 
-This is a download of us geographic information based on the 2000 census. Read through the [article here](http://mcdc.missouri.edu/webrepts/geography/ZIP.resources.html) for a better understanding of what you're getting. 
+This is a download of us geographic information based on the 2000 census. Read through the [article here](http://mcdc.missouri.edu/webrepts/geography/ZIP.resources.html) for a better understanding of what you're getting. You can preview the data [here](https://www.getsyndetic.com/publish/datasets/0b2c7d29-8c07-4a44-8160-8138889bf158).
 
 These are "ZCTA"s, which are based on USPS zip codes but more directly relate to spacial information (I.E. you can get lat/lon boundaries for them). From the article: 
 
